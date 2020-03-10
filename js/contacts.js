@@ -1,4 +1,4 @@
-var peeps =  [
+var peeps = [
   {
     name: 'Mercury Man',
     email: 'theman@mercury.com',
@@ -17,4 +17,5 @@ var peeps =  [
     tel: '+55551234',
     loc: [816040000, 740550000]
   }
+
 ];
